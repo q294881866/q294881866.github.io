@@ -1,1 +1,1 @@
-# jiumao.org
+[jiumao](http://jiumao.org)
