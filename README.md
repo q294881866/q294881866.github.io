@@ -1,1 +1,1 @@
-[jiumao](http://jiumao.org)
+## [![Join the chat](http://jiumao.org/Join%20Chat.svg)](http://jiumao.org)
